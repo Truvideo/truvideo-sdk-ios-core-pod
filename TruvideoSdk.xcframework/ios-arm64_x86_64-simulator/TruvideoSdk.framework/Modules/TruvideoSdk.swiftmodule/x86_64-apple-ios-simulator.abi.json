@@ -190,13 +190,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Func",
-            "usr": "s:11TruvideoSdk11TruVideoSDKC15generatePayloadyyFZ",
-            "mangledName": "$s11TruvideoSdk11TruVideoSDKC15generatePayloadyyFZ",
+            "usr": "s:11TruvideoSdk11TruVideoSDKC15generatePayloadSSyFZ",
+            "mangledName": "$s11TruvideoSdk11TruVideoSDKC15generatePayloadSSyFZ",
             "moduleName": "TruvideoSdk",
             "static": true,
             "declAttributes": [

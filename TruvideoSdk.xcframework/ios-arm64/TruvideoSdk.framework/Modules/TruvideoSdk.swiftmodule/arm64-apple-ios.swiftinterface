@@ -21,6 +21,6 @@ import _SwiftConcurrencyShims
   public static var isAuthenticationExpired: Swift.Bool {
     get
   }
-  public static func generatePayload()
+  public static func generatePayload() -> Swift.String
   @objc deinit
 }
