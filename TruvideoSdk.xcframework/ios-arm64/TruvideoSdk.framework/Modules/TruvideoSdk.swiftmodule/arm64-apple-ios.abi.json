@@ -1385,34 +1385,34 @@
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
       "offset": 148,
-      "length": 6,
-      "value": "\"BETA\""
+      "length": 5,
+      "value": "\"DEV\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
-      "offset": 211,
+      "offset": 210,
       "length": 4,
       "value": "\"RC\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
-      "offset": 280,
+      "offset": 279,
       "length": 6,
       "value": "\"PROD\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
-      "offset": 351,
+      "offset": 350,
       "length": 6,
       "value": "\"BETA\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
-      "offset": 421,
+      "offset": 420,
       "length": 5,
       "value": "\"DEV\""
     },
