@@ -1447,16 +1447,9 @@
     {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/TruvideoSdkInterfaceImplementation.swift",
       "kind": "BooleanLiteral",
-      "offset": 452,
+      "offset": 451,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/TruvideoSdkInterfaceImplementation.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3981,
-      "length": 5,
-      "value": "false"
     }
   ]
 }
