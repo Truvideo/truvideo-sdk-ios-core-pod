@@ -512,23 +512,15 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
+                "name": "String",
+                "printedName": "Swift.String",
                 "hasDefaultArg": true,
-                "usr": "s:Sq"
+                "usr": "s:SS"
               }
             ],
             "declKind": "Func",
-            "usr": "s:11TruvideoSdk0aB9InterfacePAAE12authenticate6apiKey7payload9signature10externalIdySS_S3SSgtYaKF",
-            "mangledName": "$s11TruvideoSdk0aB9InterfacePAAE12authenticate6apiKey7payload9signature10externalIdySS_S3SSgtYaKF",
+            "usr": "s:11TruvideoSdk0aB9InterfacePAAE12authenticate6apiKey7payload9signature10externalIdySS_S3StYaKF",
+            "mangledName": "$s11TruvideoSdk0aB9InterfacePAAE12authenticate6apiKey7payload9signature10externalIdySS_S3StYaKF",
             "moduleName": "TruvideoSdk",
             "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
             "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
@@ -1396,6 +1388,13 @@
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Logger\/Destination\/CoreLogDestination.swift",
       "kind": "StringLiteral",
       "offset": 1613,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Protocols\/TruvideoSdkInterface.swift",
+      "kind": "StringLiteral",
+      "offset": 3800,
       "length": 2,
       "value": "\"\""
     },
