@@ -512,23 +512,15 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
+                "name": "String",
+                "printedName": "Swift.String",
                 "hasDefaultArg": true,
-                "usr": "s:Sq"
+                "usr": "s:SS"
               }
             ],
             "declKind": "Func",
-            "usr": "s:11TruvideoSdk0aB9InterfacePAAE12authenticate6apiKey7payload9signature10externalIdySS_S3SSgtYaKF",
-            "mangledName": "$s11TruvideoSdk0aB9InterfacePAAE12authenticate6apiKey7payload9signature10externalIdySS_S3SSgtYaKF",
+            "usr": "s:11TruvideoSdk0aB9InterfacePAAE12authenticate6apiKey7payload9signature10externalIdySS_S3StYaKF",
+            "mangledName": "$s11TruvideoSdk0aB9InterfacePAAE12authenticate6apiKey7payload9signature10externalIdySS_S3StYaKF",
             "moduleName": "TruvideoSdk",
             "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
             "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
@@ -1400,37 +1392,44 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Protocols\/TruvideoSdkInterface.swift",
+      "kind": "StringLiteral",
+      "offset": 3800,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Environment\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 1709,
+      "offset": 1781,
       "length": 6,
       "value": "\"BETA\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Environment\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 1800,
+      "offset": 1872,
       "length": 5,
       "value": "\"DEV\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Environment\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 1892,
+      "offset": 1964,
       "length": 6,
       "value": "\"PROD\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Environment\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 2018,
+      "offset": 2090,
       "length": 4,
       "value": "\"RC\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Environment\/Environment.swift",
       "kind": "StringLiteral",
-      "offset": 2149,
+      "offset": 2221,
       "length": 20,
       "value": "\"$(SDK_ENVIRONMENT)\""
     }
