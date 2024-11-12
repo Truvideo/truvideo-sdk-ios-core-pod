@@ -25,7 +25,7 @@ public protocol TruvideoSdkInterface {
 }
 extension TruvideoSdk.TruvideoSdkInterface {
   #if compiler(>=5.3) && $AsyncAwait
-  public func authenticate(apiKey: Swift.String, payload: Swift.String, signature: Swift.String, externalId: Swift.String? = nil) async throws
+  public func authenticate(apiKey: Swift.String, payload: Swift.String, signature: Swift.String, externalId: Swift.String = "") async throws
   #endif
 }
 public enum TruvideoSdkCoreError : Swift.Equatable, Swift.Error, Foundation.LocalizedError {
