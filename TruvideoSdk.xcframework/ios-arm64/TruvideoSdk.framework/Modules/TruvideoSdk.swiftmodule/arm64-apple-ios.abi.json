@@ -100,6 +100,16 @@
       },
       {
         "kind": "Import",
+        "name": "CommonCrypto",
+        "printedName": "CommonCrypto",
+        "declKind": "Import",
+        "moduleName": "TruvideoSdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Network",
         "printedName": "Network",
         "declKind": "Import",
@@ -160,13 +170,20 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "Sentry",
+        "printedName": "Sentry",
         "declKind": "Import",
         "moduleName": "TruvideoSdk",
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TruvideoSdk"
       },
       {
         "kind": "Import",
@@ -301,84 +318,6 @@
         "children": [
           {
             "kind": "Function",
-            "name": "apiKey",
-            "printedName": "apiKey()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:11TruvideoSdk0aB9InterfaceP6apiKeySSyKF",
-            "mangledName": "$s11TruvideoSdk0aB9InterfaceP6apiKeySSyKF",
-            "moduleName": "TruvideoSdk",
-            "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
-            "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
-            "protocolReq": true,
-            "declAttributes": [
-              "RawDocComment"
-            ],
-            "throwing": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "isAuthenticated",
-            "printedName": "isAuthenticated()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:11TruvideoSdk0aB9InterfaceP15isAuthenticatedSbyKF",
-            "mangledName": "$s11TruvideoSdk0aB9InterfaceP15isAuthenticatedSbyKF",
-            "moduleName": "TruvideoSdk",
-            "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
-            "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
-            "protocolReq": true,
-            "declAttributes": [
-              "RawDocComment"
-            ],
-            "throwing": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "isAuthenticationExpired",
-            "printedName": "isAuthenticationExpired()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:11TruvideoSdk0aB9InterfaceP23isAuthenticationExpiredSbyKF",
-            "mangledName": "$s11TruvideoSdk0aB9InterfaceP23isAuthenticationExpiredSbyKF",
-            "moduleName": "TruvideoSdk",
-            "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
-            "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
-            "protocolReq": true,
-            "declAttributes": [
-              "RawDocComment"
-            ],
-            "throwing": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "authenticate",
             "printedName": "authenticate(apiKey:payload:signature:externalId:)",
             "children": [
@@ -415,6 +354,32 @@
             "declKind": "Func",
             "usr": "s:11TruvideoSdk0aB9InterfaceP12authenticate6apiKey7payload9signature10externalIdySS_S3StYaKF",
             "mangledName": "$s11TruvideoSdk0aB9InterfaceP12authenticate6apiKey7payload9signature10externalIdySS_S3StYaKF",
+            "moduleName": "TruvideoSdk",
+            "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
+            "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "apiKey",
+            "printedName": "apiKey()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TruvideoSdk0aB9InterfaceP6apiKeySSyKF",
+            "mangledName": "$s11TruvideoSdk0aB9InterfaceP6apiKeySSyKF",
             "moduleName": "TruvideoSdk",
             "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
             "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
@@ -491,6 +456,58 @@
             "declKind": "Func",
             "usr": "s:11TruvideoSdk0aB9InterfaceP18initAuthenticationyyYaKF",
             "mangledName": "$s11TruvideoSdk0aB9InterfaceP18initAuthenticationyyYaKF",
+            "moduleName": "TruvideoSdk",
+            "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
+            "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isAuthenticated",
+            "printedName": "isAuthenticated()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TruvideoSdk0aB9InterfaceP15isAuthenticatedSbyKF",
+            "mangledName": "$s11TruvideoSdk0aB9InterfaceP15isAuthenticatedSbyKF",
+            "moduleName": "TruvideoSdk",
+            "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
+            "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isAuthenticationExpired",
+            "printedName": "isAuthenticationExpired()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TruvideoSdk0aB9InterfaceP23isAuthenticationExpiredSbyKF",
+            "mangledName": "$s11TruvideoSdk0aB9InterfaceP23isAuthenticationExpiredSbyKF",
             "moduleName": "TruvideoSdk",
             "genericSig": "<τ_0_0 where τ_0_0 : TruvideoSdk.TruvideoSdkInterface>",
             "sugared_genericSig": "<Self where Self : TruvideoSdk.TruvideoSdkInterface>",
@@ -1240,37 +1257,37 @@
     {
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
-      "offset": 1684,
+      "offset": 1676,
       "length": 6,
       "value": "\"BETA\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
-      "offset": 1775,
+      "offset": 1759,
       "length": 5,
       "value": "\"DEV\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
-      "offset": 1867,
+      "offset": 1843,
       "length": 6,
       "value": "\"PROD\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
-      "offset": 1993,
+      "offset": 1961,
       "length": 4,
       "value": "\"RC\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/CI.swift",
       "kind": "StringLiteral",
-      "offset": 2124,
-      "length": 6,
-      "value": "\"PROD\""
+      "offset": 2092,
+      "length": 5,
+      "value": "\"DEV\""
     },
     {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/S3\/Client\/AWSS3Client.swift",
@@ -1296,7 +1313,7 @@
     {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Bootstrapper.swift",
       "kind": "StringLiteral",
-      "offset": 2611,
+      "offset": 3342,
       "length": 24,
       "value": "\"com.truVideoSdk.logger\""
     },
@@ -1429,7 +1446,7 @@
     {
       "filePath": "\/Users\/vagrant\/git\/TruvideoSdk\/Protocols\/TruvideoSdkInterface.swift",
       "kind": "StringLiteral",
-      "offset": 3800,
+      "offset": 5034,
       "length": 2,
       "value": "\"\""
     }
