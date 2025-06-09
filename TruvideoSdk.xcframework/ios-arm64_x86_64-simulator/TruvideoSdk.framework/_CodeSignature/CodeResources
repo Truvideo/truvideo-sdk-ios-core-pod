@@ -18,43 +18,43 @@
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		b+QMefOnS0crYGAeN7eY9Dq4s+s=
+		uUmnF4AUdI54/V7Ji4QwYsCfS5Y=
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		R4Xxibt/Gkd3FwF/90d9e8rXzww=
+		TWjdfYnC0TwpcEjlRpCBjiAzRDc=
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		6ORuPb4CQYmjUHyszhs5hEy3p7k=
+		bIFurYS+oy9Eu9rqZvhSRB0kbeg=
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		R4Xxibt/Gkd3FwF/90d9e8rXzww=
+		TWjdfYnC0TwpcEjlRpCBjiAzRDc=
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4B06ECKCICS3atw7ARE4mC4eh+M=
+		U1X35wQGQSqEZf36vb+VTKdu+mI=
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		b+QMefOnS0crYGAeN7eY9Dq4s+s=
+		uUmnF4AUdI54/V7Ji4QwYsCfS5Y=
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		7kD0TzAdvAJNe5W5a+M7yGtkUW8=
+		96US+zyCo3ulrG+Z7gg7Vz+Pep0=
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		wsh7xuHiQcwNQ186HyWDyO7CP1g=
+		ZmkrX7JV4FxaBqlk0GOp0f1l0z0=
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		7kD0TzAdvAJNe5W5a+M7yGtkUW8=
+		96US+zyCo3ulrG+Z7gg7Vz+Pep0=
 		</data>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OjD1LXOiltjIope4nNPtfrzvwwM=
+		/FRNlaLCm0GLVK2lWT8HO/Y1cpA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,70 +85,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UNXSyhs6VxGIgwA2rWFk70kDIb6t1u8jnEw2C+gGRNs=
+			CBD9vqFBeBhyk/+wwaFeQzNGoP4GohAS9b2wJyIzlGA=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vxiN/Uvy5QP+xv3hkhkwJxiSRqaGu6+MBqlxOwp4irg=
+			64v4dvg6x6gFWyiU9UC76UZmwtY39YicfzgZG8VEO+s=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dj3aFYBEdQESjoy09yBCPkgT5k+CBKk7XWwqIGyx2tw=
+			aypRykUMFFvPzOmipUUx5KtsJuFFQupEy6C6WZDnhXw=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vxiN/Uvy5QP+xv3hkhkwJxiSRqaGu6+MBqlxOwp4irg=
+			64v4dvg6x6gFWyiU9UC76UZmwtY39YicfzgZG8VEO+s=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9fTMpavKT5DsNIdTZZ6/470fC6/JDd1SXGoyRj2fnZc=
+			GnxYTFIdrtPlVo28KMwMwq9eCiW0pbuwbR07MHqPdvU=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UNXSyhs6VxGIgwA2rWFk70kDIb6t1u8jnEw2C+gGRNs=
+			CBD9vqFBeBhyk/+wwaFeQzNGoP4GohAS9b2wJyIzlGA=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8MJpA3/9xbBicLGeiucRKhNtsvINZ9D7poOHqkakh/w=
+			i3uZA7EpfS8kyVlvpZf5HRPDDnq4V9tJfugPYIgE/ys=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lwkOay88bcc7TLjyH5VFlLvLWCM8UC7wmt6+YFvWZZU=
+			PpLeLOGdFLCcd17jwURpEoIsDGOjSqc15Eo1rCKHsDo=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8MJpA3/9xbBicLGeiucRKhNtsvINZ9D7poOHqkakh/w=
+			i3uZA7EpfS8kyVlvpZf5HRPDDnq4V9tJfugPYIgE/ys=
 			</data>
 		</dict>
 		<key>Modules/TruvideoSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U9v8Ij5I91Lx7N9cPqB+9l/0vNIHnlniflkuLLWJxX8=
+			WcA3tnM5HlUNbxZbcQlNgsF+E1WCwwUis5iYJSrzznU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
