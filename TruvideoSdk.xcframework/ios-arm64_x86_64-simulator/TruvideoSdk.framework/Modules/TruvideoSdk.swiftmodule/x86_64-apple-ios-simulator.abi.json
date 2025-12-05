@@ -6,37 +6,6 @@
     "children": [
       {
         "kind": "Import",
-        "name": "CloudStorageKit",
-        "printedName": "CloudStorageKit",
-        "declKind": "Import",
-        "moduleName": "TruvideoSdk",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "TruVideoApi",
-        "printedName": "TruVideoApi",
-        "declKind": "Import",
-        "moduleName": "TruvideoSdk",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Utilities",
-        "printedName": "Utilities",
-        "declKind": "Import",
-        "moduleName": "TruvideoSdk",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "TruVideoApi",
         "printedName": "TruVideoApi",
         "declKind": "Import",
@@ -2513,6 +2482,16 @@
       },
       {
         "kind": "Import",
+        "name": "TruVideoApi",
+        "printedName": "TruVideoApi",
+        "declKind": "Import",
+        "moduleName": "TruvideoSdk",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -2533,23 +2512,16 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/StorageProvider\/CloudStorageProvider.swift",
-      "kind": "StringLiteral",
-      "offset": 1140,
-      "length": 24,
-      "value": "\"makeCloudStorageFailed\""
-    },
-    {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Legacy\/LegacyStorage.swift",
       "kind": "StringLiteral",
-      "offset": 3848,
+      "offset": 3828,
       "length": 30,
       "value": "\"truvideo-sdk-common-settings\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Migrator\/Migrator.swift",
       "kind": "StringLiteral",
-      "offset": 3569,
+      "offset": 3553,
       "length": 30,
       "value": "\"truvideo-sdk-common-settings\""
     },
@@ -2577,35 +2549,35 @@
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/App\/TruVideoApp+Deprecation.swift",
       "kind": "StringLiteral",
-      "offset": 1049,
+      "offset": 1045,
       "length": 25,
       "value": "\"payloadGenerationFailed\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/App\/TruVideoApp+Deprecation.swift",
       "kind": "StringLiteral",
-      "offset": 1103,
+      "offset": 1099,
       "length": 37,
       "value": "\"Unable to generate request payload.\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/App\/TruVideoApp+Deprecation.swift",
       "kind": "StringLiteral",
-      "offset": 1165,
+      "offset": 1161,
       "length": 56,
       "value": "\"The data provided could not be encoded or was invalid.\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/App\/TruVideoApp.swift",
       "kind": "BooleanLiteral",
-      "offset": 10891,
+      "offset": 10835,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/App\/TruVideoApp.swift",
       "kind": "StringLiteral",
-      "offset": 11074,
+      "offset": 11075,
       "length": 36,
       "value": "\"com.truvideo.app.pathMonitor.queue\""
     },
@@ -2696,72 +2668,79 @@
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Error\/TruVideoSdkError.swift",
       "kind": "StringLiteral",
-      "offset": 4089,
+      "offset": 4081,
       "length": 22,
       "value": "\"authenticationFailed\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Error\/TruVideoSdkError.swift",
       "kind": "StringLiteral",
-      "offset": 4651,
+      "offset": 4635,
       "length": 23,
       "value": "\"configurationRequired\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Error\/TruVideoSdkError.swift",
       "kind": "StringLiteral",
-      "offset": 5107,
+      "offset": 5091,
       "length": 15,
       "value": "\"invalidApiKey\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Error\/TruVideoSdkError.swift",
       "kind": "StringLiteral",
-      "offset": 5541,
+      "offset": 5525,
       "length": 18,
       "value": "\"invalidSignature\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Error\/TruVideoSdkError.swift",
       "kind": "StringLiteral",
-      "offset": 5647,
+      "offset": 5631,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Processor\/UploadProcessor.swift",
       "kind": "StringLiteral",
-      "offset": 1133,
+      "offset": 1102,
       "length": 36,
       "value": "\"com.truvideo.uploadProcessor.queue\""
+    },
+    {
+      "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Processor\/UploadProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6595,
+      "length": 24,
+      "value": "\"makeCloudStorageFailed\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Version.swift",
       "kind": "StringLiteral",
       "offset": 119,
-      "length": 8,
-      "value": "\"78.2.0\""
+      "length": 13,
+      "value": "\"78.2.1-RC.2\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Version.swift",
       "kind": "StringLiteral",
-      "offset": 149,
-      "length": 6,
-      "value": "\"PROD\""
+      "offset": 154,
+      "length": 4,
+      "value": "\"RC\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Version.swift",
       "kind": "StringLiteral",
-      "offset": 177,
+      "offset": 180,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Version.swift",
       "kind": "StringLiteral",
-      "offset": 200,
-      "length": 45,
-      "value": "\"ozEVUiZDlaerA4k2W6\/M4u+HrRZ1jCxM7Yv1H80n57U\""
+      "offset": 203,
+      "length": 46,
+      "value": "\"du8TvbU1wVhI5AmDK3VD6XAKZkWwQptz77TMVNGsuZU=\""
     }
   ]
 }
