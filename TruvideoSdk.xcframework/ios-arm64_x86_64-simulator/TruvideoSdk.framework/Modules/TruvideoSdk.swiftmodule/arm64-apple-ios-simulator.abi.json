@@ -2718,29 +2718,29 @@
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Version.swift",
       "kind": "StringLiteral",
       "offset": 119,
-      "length": 13,
-      "value": "\"78.2.2-RC.9\""
+      "length": 8,
+      "value": "\"78.2.2\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Version.swift",
       "kind": "StringLiteral",
-      "offset": 154,
-      "length": 4,
-      "value": "\"RC\""
+      "offset": 149,
+      "length": 6,
+      "value": "\"PROD\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Version.swift",
       "kind": "StringLiteral",
-      "offset": 180,
+      "offset": 177,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/jorge\/Desktop\/Projects\/Mobile\/iOS\/truvideo-ios-sdk\/Libraries\/External\/Extended\/App\/Sources\/Version.swift",
       "kind": "StringLiteral",
-      "offset": 203,
-      "length": 46,
-      "value": "\"du8TvbU1wVhI5AmDK3VD6XAKZkWwQptz77TMVNGsuZU=\""
+      "offset": 200,
+      "length": 45,
+      "value": "\"ozEVUiZDlaerA4k2W6\/M4u+HrRZ1jCxM7Yv1H80n57U\""
     }
   ]
 }
